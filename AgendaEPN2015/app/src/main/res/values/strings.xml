@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agenda EPN</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_presentacion">Agenda EPN</string>
+    <string name="logoepn">LOGO</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="agregar">Agregar tarea</string>
+    <string name="tvFechaEnviado">Fecha enviado:</string>
+    <string name="tvFechaEntrega">Fecha entrega:</string>
+    <string name="btnFechaActual">Fecha actual</string>
+    <string name="btnFechaEntrega">Fecha marcada</string>
+</resources>
